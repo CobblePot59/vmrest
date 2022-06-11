@@ -14,7 +14,7 @@ python3 -m pip install -r requirements.txt
 
 ## Execution
 
-###List VMs
+### List VMs
 ```
 from vmrest import *
 
