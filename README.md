@@ -29,4 +29,4 @@ from vmrest import *
 
 help()
 ```
-![alt vmrest_help](https://raw.githubusercontent.com/CobblePot59/vmrest/main/vmrest_help.png)
+![alt vmrest_help](https://raw.githubusercontent.com/CobblePot59/vmrest/main/pictures/vmrest_help.png)
